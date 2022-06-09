@@ -1,6 +1,5 @@
  
 #Facebook Ad Network
-facebook.com, 1860770684215926, RESELLER, c3e20eee3f780d68
 facebook.com, 911489465574629, RESELLER, c3e20eee3f780d68
 facebook.com, 487569369686702, RESELLER, c3e20eee3f780d68
 facebook.com, 403693747920315, RESELLER, c3e20eee3f780d68
